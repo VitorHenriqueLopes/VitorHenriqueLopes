@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Vitor 👋
 
-<!--
-**VitorHenriqueLopes/VitorHenriqueLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** na UniCesumar, em Joinville/SC, migrando para desenvolvimento com foco em **backend**.
 
-Here are some ideas to get you started:
+Comecei a programar resolvendo um problema real. Trabalhando com processos administrativos de multas de trânsito, construí um sistema para automatizar o controle de processos, clientes, prazos e documentos, que hoje roda na operação da empresa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 No que estou trabalhando
+
+- [**Solução Multas**](https://github.com/VitorHenriqueLopes/solucao-multas): sistema de gestão de processos de multas de trânsito   
+- Migração do backend de Google Sheets para **PostgreSQL / Supabase**
+
+### 🧰 Tecnologias
+
+**Uso no dia a dia:** JavaScript · Google Apps Script · Google Workspace APIs (Sheets, Drive) · Git **Estudando:** PostgreSQL · Supabase · Node.js · React · TypeScript **Também gosto de:** levantamento de requisitos, modelagem de sistemas e UML
+
+### 🎯 O que procuro
+
+Uma oportunidade de **estágio ou vaga júnior** em desenvolvimento, de preferência backend.
+
+### 📫 Contato
+
+- LinkedIn: [linkedin.com/in/vitor-henrique-lopes](https://www.linkedin.com/in/vitor-henrique-lopes/)  
+- E-mail: [vitorlopes7539@gmail.com](mailto:vitorlopes7539@gmail.com)
